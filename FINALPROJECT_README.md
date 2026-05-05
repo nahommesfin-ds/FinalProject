@@ -26,11 +26,9 @@ This comprehensive data science project investigates the multifaceted relationsh
 **Nahom Mesfin** is a dedicated **Data Scientist and Public Health Analyst** with a passion for leveraging data science to address critical health challenges in occupational and population health settings.
 
 ### 🎓 Background
-- **Current Role**: Graduate Student in Health Data Science
+- **Current Role**: Ungraduate Student in Health Data Science
 - **Institution**: George Washington University, Milken Institute School of Public Health
-- **Specialization**: Epidemiology, Statistical Analysis, Predictive Health Modeling
-- **Focus Areas**: Occupational health, sleep science, chronic disease prevention
-
+-
 ### 💻 Technical Expertise
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis**: Statistical testing (ANOVA, Chi-Square, Mann-Whitney U), Hypothesis Testing, Regression Analysis
@@ -45,10 +43,6 @@ This comprehensive data science project investigates the multifaceted relationsh
 - Predictive modeling for chronic disease prevention
 - Health equity and population health disparities
 - Data-driven policy recommendations
-
-### 🎯 Professional Goals
-Nahom is committed to translating complex health data into actionable insights that improve public health outcomes and inform evidence-based policy decisions, particularly in occupational health and chronic disease prevention.
-
 ---
 
 ## ✨ Key Findings
